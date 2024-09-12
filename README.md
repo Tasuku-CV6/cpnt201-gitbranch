@@ -1,1 +1,1 @@
-# A list of Food recipes
+# A list of food recipes
