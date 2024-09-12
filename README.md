@@ -13,3 +13,7 @@
 ## Butter Chicken
 
 ## Random Food Images
+
+![Mozarella](food-images/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3-1.jpg)
+![burger](food-images/burger-with-melted-cheese.jpg)
+![ricotta](food-images/Easy-Recipes-for-Beginners-Square-jpg.webp)
